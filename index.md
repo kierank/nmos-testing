@@ -2,7 +2,7 @@
 
 # {{ site.github.project_tagline }}
 
-[![Build Status](https://travis-ci.com/AMWA-TV/nmos-testing.git.svg)](https://travis-ci.com/AMWA-TV/nmos-testing.git)
+[![Build Status](https://travis-ci.com/AMWA-TV/nmos-testing.svg)](https://travis-ci.com/AMWA-TV/nmos-testing)
 
 
 
