@@ -2,7 +2,7 @@
 
 # {{ site.github.project_tagline }}
 
-[![Build Status](https://travis-ci.com/AMWA-TV/nmos-testing.svg)](https://travis-ci.com/AMWA-TV/nmos-testing)
+[![Build Status](https://travis-ci.com/AMWA-TV/nmos-testing.svg?branch=master)](https://travis-ci.com/AMWA-TV/nmos-testing)
 
 
 
