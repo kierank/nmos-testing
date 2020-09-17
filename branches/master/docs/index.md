@@ -12,6 +12,7 @@
   - [Testing of SDP Files](2.4._Usage_-_Testing_of_SDP_Files.md)
   - [Non-Interactive Mode](2.5._Usage_-_Non-Interactive_Mode.md)
   - [Using the API](2.6._Usage_-_Using_the_API.md)
+  - [Testing IS-07 MQTT](2.7._Usage_-_Testing_IS-07_MQTT.md)
 - [Testing Profiles](3.0._Testing_Profiles.md)
   - [JT-NM TR-1001](3.1._Testing_Profiles_-_JT-NM_TR-1001.md)
 - [Known Issues](4.0._Known_Issues.md)
